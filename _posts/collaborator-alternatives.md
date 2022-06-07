@@ -2,7 +2,7 @@
 title: Free Burp Collaborator Alternatives
 date: 2022-06-07 11:33:00 +0800
 categories: [Burp Suite, free]
-tags: [burp,collaborator]
+tags: [burp,collaborator,interact.sh]
 ---
 
 # Free Burp Collaborator Alternatives
