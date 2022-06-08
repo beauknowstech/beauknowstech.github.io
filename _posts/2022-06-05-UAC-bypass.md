@@ -7,7 +7,7 @@ tags: [uac bypass, oscp]
 
 # UAC bypass - why and how
 
-As a hacker sometimes you will land on a windows machine as a user that has admin rights, but anything you try and do that will require admin rights will get blocked by UAC. 
+As a hacker sometimes you will land on a windows machine as a user that has admin rights, but anything you try and do that will require admin rights will (mimikatz anyone?) get blocked by UAC. 
 
 The benefits of UAC are listed [here](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview#:~:text=User%20Account%20Control%20(UAC,changes%20to%20system%20settings.)) but boil down to blocking automatic execution of malware and also gives a user a second chance to say no to something that they clicked on.
 
