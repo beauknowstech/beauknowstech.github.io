@@ -83,4 +83,7 @@ Note: The command you execute will need to end in "&& REM"
 If you are using it just for testing in htb or proving grounds you can grab the precompiled executable here:
 <https://github.com/Flangvik/SharpCollection/blob/master/NetFramework_4.5_Any/SharpBypassUAC.exe> 
 
-If not you should compile it yourself, just in case.
+
+
+> If you are using this on an actual pentest I would compile it yourself, just in case.
+{: .prompt-warning }
