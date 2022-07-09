@@ -118,7 +118,10 @@ The only additional study that I did between exam attempts was Active Directory 
 
 ## Advice for if you are brand new. 
 
-If you really don’t know where to start, do [tryhackme](https://tryhackme.com/) first starting with the pre-security path. This will introduce you to how computers and networking works. As well as the windows and linux basics. Then [HTB](https://hackthebox.com) (5 easy windows machines and 5 easy linux machines). Follow along with [ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) for those first 10 or so boxes so you can get the basic methodology down. Next do a bunch of boxes from [TJNull’s famous list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0). Then sign up for PWK and do the lab for a few months. Saving proving grounds for the last 2-3 months before the exam as they seem to be the closest to the exam machines. 
+If you really don’t know where to start, do [tryhackme](https://tryhackme.com/) first starting with the pre-security path. This will introduce you to how computers and networking works. As well as the windows and linux basics. Then [HTB](https://hackthebox.com) (5 easy windows machines and 5 easy linux machines). Follow along with [ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) for those first 10 or so boxes so you can get the basic methodology down. Next do a bunch of boxes from [TJNull’s famous list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0). Take the boxes from this list and add them to the ToDo list in HackTheBox. Then you can sort them by difficulty. Just start with the easiest ones and work your way down.
+
+
+Then sign up for PWK and do the lab for a few months. Saving proving grounds for the last 2-3 months before the exam as they seem to be the closest to the exam machines. 
 
 
 Everyone wants to be as efficient as possible. But I do think that there is a good reason to get the Learn One. One year. Two exam attempts. I think it's great. If you can… get your work to pay for it. If you are in a dev, IT or security role, they should. That is nothing for most education budgets at most companies.
@@ -157,7 +160,7 @@ Which is exactly how I studied. TJnull’s list on HTB first. To get my methodol
 In each case even if I successfully got root/admin I would look at as many walkthroughs as I could to see how other people did it. If they did something differently and it was something I felt was valuable, I would add it to my notes/methodology
 
 ### Watch these people on twitch/youtube
-https://infosecstreams.github.io/
+<https://infosecstreams.github.io/>
 
 ### My Notes
 Right now all my notes are on onenote, which is great for auto backup. But I wish I had found a markdown setup that I like. I tried them all…. joplin/obsidian/notion all the things. I might share my notes if I ever get the time to spend 12 hours converting them all to markdown. But to be honest I don’t think it would help anyone because building your own methodology and your own notes is invaluable. That is how you learn and grow. 
