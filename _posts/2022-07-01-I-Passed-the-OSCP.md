@@ -7,7 +7,7 @@ tags: [OSCP]
 
 # I passed the OSCP with 100 points w/o lab report.
 
-[Youtube Version]()
+[Youtube Version](https://youtu.be/MHOAymrRiqI)
 
 This post and video share parts from eachother. 
 
